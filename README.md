@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-![](https://github.com/kiy98/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/kiy98/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/kiy98/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/kiy98/github-stats/blob/master/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/kiy98/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/kiy98/github-stats/blob/master/generated/languages.svg#gh-light-mode-only)
 
 <!--
 **Kiy98/Kiy98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
